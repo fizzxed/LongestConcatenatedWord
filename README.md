@@ -20,17 +20,13 @@ ratcatdog
 ratcatdogcat
 ```
 We should get:
-
+```
 Longest compound word found is: 	"ratcatdogcat"
-
 Concatenated from 4 words: ['rat', 'cat', 'dog', 'cat']
-
 Second Longest compound word found is: 	"catsdogcats"
-
 Concatenated from 3 words: ['cats', 'dog', 'cats']
-
 Number of compound words is 5
-
+```
 ___
 ## Running the code
 To run the code you must supply an input file. There are two input files provided.
