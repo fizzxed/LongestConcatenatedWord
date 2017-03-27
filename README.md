@@ -1,4 +1,4 @@
-# LongestConcatenatedWord
+# Longest Concatenated Word Problem
 The challenge:
 Write a program that reads a file containing a alphabetically sorted list of words (one word per line, no spaces, all lower case) and:
 1. Find the longest word in the file that can be constructed concatenating copies of shorter words also found in the file.
