@@ -5,6 +5,7 @@ Write a program that reads a file containing a alphabetically sorted list of wor
 2. Also report the second longest word found
 3. Also give the words that can be concatenated together to create the larger word
 4. Also report the total count of words that can be constructed of other words in the file.
+
 For example, if the input file is: 
 ```
 cat
